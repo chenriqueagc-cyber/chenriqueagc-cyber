@@ -3,7 +3,6 @@
 <img src="./profile-banner.svg" alt="Carlos Henrique Aguiar Caldas — Inteligência Artificial" width="100%">
 
 <a href="https://www.linkedin.com/in/carlos-henrique-aguiar-caldas-782b23254/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0b0f19?style=for-the-badge&logo=linkedin&logoColor=48baff&labelColor=111827" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://github.com/USERNAME_HERE">
